@@ -1,1 +1,19 @@
-style.css
+
+
+
+.button{color: white;
+    background-color: black;
+    border-radius: 8px;
+}
+.col-md-3{height: 100px;
+    width: 100px;
+    margin-top: 200px;
+   
+}
+.categories{text-align: center;
+    
+}
+.categories1{ margin-block-end: 50px;}
+.cards{padding: 100px;}
+.sohan{margin-top: 300px;}
+     
